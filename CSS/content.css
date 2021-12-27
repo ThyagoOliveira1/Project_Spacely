@@ -1,0 +1,41 @@
+/*Section => Sobre*/
+.sobre {
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
+
+.sobre__texto {
+    text-align: center;
+    padding: 5em 10em 5em 10em;
+}
+
+/*Section => Artes*/
+.artes {
+    background-color: #BDB4BF;
+}
+
+.artes__texto {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 1.2em;
+}
+
+.artes__content {
+    background-color: #FFFFFF;
+}
+
+.artes__content__grup {
+    padding-top: 2em;
+    margin-top: 2em;
+    width: 30%;
+    text-align: center;
+}
+
+.content__grup__img {
+    background-image: url('Arte.jpg');
+    background-size: cover
+}
+
+.content__grup__texto {
+    text-align: justify;
+}

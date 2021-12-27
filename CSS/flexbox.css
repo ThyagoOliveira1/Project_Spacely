@@ -7,3 +7,10 @@
 .cabecalho__nav {
     display: flex;
 }
+
+.artes__content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
