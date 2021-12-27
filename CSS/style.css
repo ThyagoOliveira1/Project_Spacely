@@ -1,0 +1,9 @@
+body {
+	background-color: #FFFFFF;
+	font-family: 'Open Sans',Arial,sans-serif;
+}
+
+.container {
+	margin: 0 auto;
+	width: 90%;
+}
