@@ -63,7 +63,7 @@
 .footer__container__info {
     align-items: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .footer__lista__icones {
