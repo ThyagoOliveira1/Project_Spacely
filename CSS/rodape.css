@@ -1,0 +1,54 @@
+.rodape {
+    background-color: #353A47;
+    color: #FFFFFF;
+	padding: 45px 0;   
+}
+
+.footer__container__info {
+    width: 40%;
+    padding: .5em;
+}
+
+.logo__footer {
+    border-right: 3px solid white;
+    padding-right: 1em;
+}
+
+.logo__footer__titulo {
+    font-size: 1.75em;
+    font-weight: bold;
+}
+
+.footer__contato__titulo {
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+
+.footer__contato__texto {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+
+.icone__lista {
+    margin-left: 1.2em;
+}
+
+.icone__lista a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.lista__icone__link {
+    color: #FFFFFF;
+    font-size: 1em;
+    margin-top: .5em;
+    text-decoration: none;
+}
+
+.icone__lista__facebook, .icone__lista__instagram, .icone__lista__twitter {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}

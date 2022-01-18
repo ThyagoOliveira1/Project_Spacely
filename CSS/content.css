@@ -9,11 +9,11 @@
 }
 
 /*Section => Artes*/
-.artes {
+.artes__texto {
     background-color: #BDB4BF;
 }
 
-.artes__texto {
+.artes__texto__titulo {
     text-align: center;
     font-size: 1.5em;
     font-weight: bold;
@@ -22,40 +22,127 @@
 
 .artes__content {
     background-color: #FFFFFF;
-    padding: 2em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    width: 100%;
 }
 
 .artes__content__grup {
-    margin-top: 2em;
-    width: 30%;
+    width: 33.33%;
     text-align: center;
 }
 
 .content__grup {
+    background-color: #D9D9D9;
     border-color: #686a78;
     border-radius: 10px;
     border-style: solid;
     border-width: medium;
-    padding-top: 1em;
-    margin: 1em 3em 2em 2em;
-}
-
-.content__img__container {
-
+    box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    margin: 1em 2em 1em 2em;
 }
 
 .content__grup__img {
-    
+    border-radius: 5px;
+    width: 100%;
 }
 
-.content__img__info{
+.content__img__info{   
+    font-size: 1em;
     padding: 1em;
 }
 
 .content__grup__titulo {
+    border-bottom: 3px solid;
+    border-color: #686a78;
+    font-size: 1.25em;
     text-align: center;
+    padding-bottom: .2em;
 }
 
 .content__grup__texto {
     text-align: justify;
+    margin-top: 1.5em;
+}
+
+/*Section => Artistas*/
+.artistas__texto {
+    background-color: #BDB4BF;
+}
+
+.artistas__texto__titulo {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 1.2em;
+}
+
+.artistas__content {
+    background-color: #FFFFFF;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    width: 100%;
+}
+
+.artistas__content__grup {
+    background-color: #D9D9D9;
+    border-color: #686a78;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: medium;
+    box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    margin: 1em 2em 1em 2em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.artistas__img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.artistas__img__info {
+    background-color: #EFF2EF;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: thin;
+    padding: 1em;
+    width: 50%;
+}
+
+.artistas__img__info h3 {
+    font-weight: bolder;
+}
+
+.artistas__info__nomeIdade {
+    border-bottom: 1px solid black;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    width: 100%;
+}
+
+.artistas__info__formacao {
+    border-bottom: 1px solid black;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
+
+.artistas__info__formacao, .artistas__info__apres {
+    text-align: justify;
+}
+
+.artistas__formacao__title, .artistas__apres__title {
+    margin-bottom: .5em;
+}
+
+/*Section => End*/
+.end {
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
+
+.end__texto {
+    text-align: center;
+    padding: 4em 8em 4em 8em;
 }
