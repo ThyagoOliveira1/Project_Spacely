@@ -22,18 +22,38 @@
 
 .artes__content {
     background-color: #FFFFFF;
+    padding: 2em;
 }
 
 .artes__content__grup {
-    padding-top: 2em;
     margin-top: 2em;
     width: 30%;
     text-align: center;
 }
 
+.content__grup {
+    border-color: #686a78;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: medium;
+    padding-top: 1em;
+    margin: 1em 3em 2em 2em;
+}
+
+.content__img__container {
+
+}
+
 .content__grup__img {
-    background-image: url('Arte.jpg');
-    background-size: cover
+    
+}
+
+.content__img__info{
+    padding: 1em;
+}
+
+.content__grup__titulo {
+    text-align: center;
 }
 
 .content__grup__texto {

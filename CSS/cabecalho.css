@@ -5,7 +5,7 @@
 }
 
 .cabecalho__titulo {
-    font-size: 2em;
+    font-size: 1.75em;
     font-weight: bold;
 }
 
@@ -16,7 +16,7 @@
 
 .cabecalho__nav__link {
     color: #FFFFFF;
-    font-size: 1.5em;
+    font-size: 1.25em;
     margin-left: 20px;
     text-decoration: none;
 }
