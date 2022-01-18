@@ -5,8 +5,8 @@
 }
 
 .footer__container__info {
-    width: 40%;
     padding: .5em;
+    width: 40%;
 }
 
 .logo__footer {
@@ -49,6 +49,6 @@
 
 .icone__lista__facebook, .icone__lista__instagram, .icone__lista__twitter {
     border-radius: 50%;
-    width: 60px;
     height: 60px;
+    width: 60px;
 }

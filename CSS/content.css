@@ -4,8 +4,8 @@
 }
 
 .sobre__texto {
-    text-align: center;
     padding: 5em 10em 5em 10em;
+    text-align: center;
 }
 
 /*Section => Artes*/
@@ -14,10 +14,10 @@
 }
 
 .artes__texto__titulo {
-    text-align: center;
-    font-size: 1.5em;
     font-weight: bold;
     padding: 1.2em;
+    text-align: center;
+    font-size: 1.5em;
 }
 
 .artes__content {
@@ -28,8 +28,8 @@
 }
 
 .artes__content__grup {
-    width: 33.33%;
     text-align: center;
+    width: 33.33%;
 }
 
 .content__grup {
@@ -56,13 +56,13 @@
     border-bottom: 3px solid;
     border-color: #686a78;
     font-size: 1.25em;
-    text-align: center;
     padding-bottom: .2em;
+    text-align: center;
 }
 
 .content__grup__texto {
-    text-align: justify;
     margin-top: 1.5em;
+    text-align: justify;
 }
 
 /*Section => Artistas*/
@@ -71,10 +71,10 @@
 }
 
 .artistas__texto__titulo {
-    text-align: center;
     font-size: 1.5em;
     font-weight: bold;
     padding: 1.2em;
+    text-align: center;
 }
 
 .artistas__content {
@@ -98,8 +98,8 @@
 
 .artistas__img {
     border-radius: 50%;
-    width: 250px;
     height: 250px;
+    width: 250px;
 }
 
 .artistas__img__info {
@@ -143,6 +143,6 @@
 }
 
 .end__texto {
-    text-align: center;
     padding: 4em 8em 4em 8em;
+    text-align: center;
 }
